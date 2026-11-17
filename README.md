@@ -1,10 +1,24 @@
 # LipStream
 
+> Academic prototype. Additional setup and matching project assets are required to run locally. This repository is not a production deployment.
+
 ### Visual speech recognition from silent English video
 
 LipStream is a team graduation project for the Artificial Intelligence program at Umm Al-Qura University. It explores transcribing short English video clips using visual information rather than audio, with a PyTorch sequence model and a Flask inference API.
 
-[Watch the recorded demo](./LipStream-demo.mp4) · [Model architecture](./models/lipreading_model.py) · [Inference API](./inference.py) · [Original team repository](https://github.com/loa24/LipStream)
+[Recorded Demo](./LipStream-demo.mp4) · [Model architecture](./models/lipreading_model.py) · [Inference API](./inference.py) · [Original team repository](https://github.com/loa24/LipStream)
+
+The recorded demo illustrates the project workflow; it is not a hosted live application or a guarantee that a fresh checkout runs without the required setup and assets.
+
+## My Contribution
+
+As a member of the four-person graduation project team, my work included:
+
+- Co-developing the visual speech recognition pipeline in Python and PyTorch.
+- Participating in model training and evaluation experiments on the GRID dataset.
+- Building the HTML, CSS, and JavaScript web interface for video uploads and transcription display, integrated with the Flask backend.
+
+These contributions were part of collaborative team work, not sole authorship of the full system. Team members and the supervisor are credited below.
 
 ## System overview
 
